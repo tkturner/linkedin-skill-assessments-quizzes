@@ -27,7 +27,7 @@
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
 
-- [ ] clicking or dragging the first point in the path
+- [x] clicking or dragging the first point in the path
 - [ ] choosing Object > Path > Join
 - [ ] pressing Return (Mac) or Enter (Windows)
 - [ ] switching to a different tool
@@ -36,7 +36,7 @@
 
 `A map of California has a light beige main color and a small dark shadow.`
 
-- [ ] 3D Extrude & Bevel
+- [x] 3D Extrude & Bevel
 - [ ] Offset Path
 - [ ] 3D Rotate
 - [ ] 3D Revolve
@@ -53,7 +53,7 @@
 `A map of Southern California includes many info circles shaded in light blue.`
 
 - [ ] Recolor Artwork
-- [ ] Select > Same > Appearance
+- [x] Select > Same > Appearance
 - [ ] Edit Colors
 - [ ] Live Paint
 
@@ -106,7 +106,7 @@
 #### Q14. What is the fastest and most efficient way to ensure that all the objects shown in the figure below are placed precisely next to one another with no space between them?
 
 - [ ] Specify a key object, then use the Horizontal Distribute Space command in the Align panel with a Spacing value of 0
-- [ ] Turn on Smart Guides and drag each object until it snaps to the one next to it.
+- [x] Turn on Smart Guides and drag each object until it snaps to the one next to it.
 - [ ] Choose the Move command and in the dialog box set the Distance value to 0.
 - [ ] Select the objects with the Selection tool, then drag from the side of the selection bounding box until the objects snap together.
 
@@ -133,7 +133,7 @@
 
 #### Q18. How can you ensure that proper nouns are not hyphenated in the document you're working on?
 
-- [ ] Turn off Hyphenate Capitalized Words in the Paragraph panel.
+- [x] Turn off Hyphenate Capitalized Words in the Paragraph panel.
 - [ ] Select Justify All Lines in the Paragraph panel.
 - [ ] Decrease the Word Spacing in the justification options.
 - [ ] Increase the Hyphenation Zone value in the Paragraph panel so it is greater than the point size of the text.
@@ -150,7 +150,7 @@
 - [ ] the Smooth tool
 - [ ] the Shape Builder tool
 - [ ] the Pencil tool
-- [ ] the Shaper tool
+- [x] the Shaper tool
 
 #### Q21. When using the Live Paint Bucket tool to fill artwork with colors, you are unable to fill some areas due to the size of gaps between paths. What can you do in the Gap Options dialog box to fix this problem?
 
@@ -251,19 +251,19 @@
 - [ ] With nothing selected, click the More Tools button in the Properties panel.
 - [ ] Click the ellipsis at the bottom of the toolbar.
 - [ ] Turn on the tool in the preferences.
-- [ ] In the Window menu, click Window > Tools.
+- [x] In the Window menu, click Window > Tools.
 
 #### Q34. The four flowers shown in the image below were created by applying an art brush to paths of different lengths. How can you prevent the distortion seen in flowers 2, 3, and 4 while keeping the size of the leaves and the width of the stem the same in all the flowers?
 
 - [ ] Open the Art Brush Options dialog box and select Scale Proportionally.
-- [ ] Expand the appearance of the distorted flowers and drag the flowers with the Selection tool.
+- [x] Expand the appearance of the distorted flowers and drag the flowers with the Selection tool.
 - [ ] Use the Pen tool to add points at the top and bottom of the stem, and then drag the points with the Direct Selection tool to remove the distortion.
 - [ ] Open the Art Brush Options dialog box, select Stretch Between Guides, and then place the guides so only the stem is between them.
 
 #### Q35. When printing an image with many out-of-gamut colors, which rendering intent would you choose to best preserve the visual relationship between colors—not the specific color values?
 
 - [ ] Absolute Colorimetric
-- [ ] Perceptual
+- [x] Perceptual
 - [ ] Saturation
 - [ ] Relative Colorimetric
 
@@ -351,9 +351,9 @@
 #### Q47. Why would you choose Enable Guides for 9-slice scaling when creating a symbol?
 
 - [ ] to allow portions of the symbol to be exported as separate graphics
-- [ ] to ensure that each instance of the symbol always maintains its original proportions when scaled
+- [x] to ensure that each instance of the symbol always maintains its original proportions when scaled
 - [ ] to include custom guides with the symbol so each instance is placed in the same position relative to the artboard
-- [ ] to allow instances of the symbol to be scaled without distorting the corners
+- [] to allow instances of the symbol to be scaled without distorting the corners
 
 #### Q48. What can you do in order to edit text in just one placed instance of a symbol?
 
@@ -371,7 +371,7 @@
 
 #### Q50. You have drawn objects on planes using the perspective grid, but now want to change the angles of the grid to new vanishing points and have the artwork update automatically. What option should be enabled to achieve this result?
 
-- [ ] Enable Perspective Warp.
+- [x] Enable Perspective Warp.
 - [ ] Enable Viewing Angle in the Define Grid dialog box.
 - [ ] Choose View > Perspective Grid > Lock Station Point
 - [ ] Enable 3D Transform.
